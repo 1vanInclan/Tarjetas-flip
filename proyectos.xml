@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PROYECTOS>
+  <PROYECTO>
+    <NOMBRE>Tomorrowland</NOMBRE>
+    <IMAGEN>tomorrowland.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>Electronica</CATEGORIA>
+    <INFO>Tomorrowland es un festival de música electrónica que se celebra en el municipio de Boom, en Bélgica y es considerado uno de los más importantes del género. Los asistentes podrán disfrutar de 15 escenarios distribuidos por el recinto, cada uno de ellos dedicado a un estilo de música en particular.</INFO>
+    <LINK>https://www.tomorrowland.com/en/festival/welcome</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Coachella</NOMBRE>
+    <IMAGEN>coachella.png</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>General</CATEGORIA>
+    <INFO>Este festival celebrado en California, Estados Unidos, es indiscutiblemente otra excelente propuesta. Su característica noria y a la abundancia de celebrities, son sin duda su mayor atractivo. El rock alternativo, el hip-hop y la electrónica son los estilos que destacan en Coachella.</INFO>
+    <LINK>https://www.coachella.com/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Ultra</NOMBRE>
+    <IMAGEN>ultra.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>Electronica</CATEGORIA>
+    <INFO>El festival dónde la música electrónica se convierte en reina. Ultra Music Festival Miami es sin duda la destinación perfecta para integrar música y turismo en tus vacaciones, ya que se celebra en el centro de Miami y sin duda tendrás tiempo para explorar esta maravillosa ciudad durante el evento o relajarte en alguna de sus playas paradisíacas.</INFO>
+    <LINK>https://ultramusicfestival.com/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>EDC</NOMBRE>
+    <IMAGEN>edc.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>Electronica</CATEGORIA>
+    <INFO>Un festival de luces y colores, dónde todos los asistentes podran disfrutar durante tres noches de este paraíso de escenarios y atracciones. Miles de personas reunidas cada año celebrando el poder de la música y la individualidad.</INFO>
+    <LINK>https://mexico.electricdaisycarnival.com/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Lollapallooza</NOMBRE>
+    <IMAGEN>lollapalooza.webp</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>General</CATEGORIA>
+    <INFO>Lollapallooza representa la esencia de la cultura joven de los años 90 y acoge el rock, la electrónica y la música indie como principales estilos. En 2011 el festival comenzó a expandirse y a día de hoy se celebra en Chicago, Chile, Argentina, Brasil, Berlín y París.</INFO>
+    <LINK>https://www.lollapaloozacl.com/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Defqon 1</NOMBRE>
+    <IMAGEN>defqon.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>Electronica</CATEGORIA>
+    <INFO>El festival que reúne anualmente a los artistas de hardstyle más importantes a nivel mundial, aunque también destacan en él géneros como la música electrónica, el hard dance, el hardcore o el trance, entre otros. </INFO>
+    <LINK>https://www.q-dance.com/en/events/defqon-1/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Daydream</NOMBRE>
+    <IMAGEN>daydream.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>Electronica</CATEGORIA>
+    <INFO>Daydream es sin duda una experiencia única que despertará todos tus sentidos. Un ambiente completamente de fantasía, mágico. México, Bélgica y Países Bajos son las diferentes ciudades en que se ha celebrado el festival hasta ahora, pero este año se ha estrenado en España. </INFO>
+    <LINK>https://www.q-dance.com/en/events/defqon-1/</LINK>
+  </PROYECTO>
+  <PROYECTO>
+    <NOMBRE>Tecate pa'l norte</NOMBRE>
+    <IMAGEN>tecate.jpg</IMAGEN>
+    <AÑOS>Actual</AÑOS>
+    <CATEGORIA>General</CATEGORIA>
+    <INFO>El festival más poderoso y ascendente de México.</INFO>
+    <LINK>https://www.tecatepalnorte.com//</LINK>
+  </PROYECTO>
+</PROYECTOS>

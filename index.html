@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/89a461c10c.js" crossorigin="anonymous"></script>
+    <title>Los mejores festivales</title>
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="text-center">
+            <h1 class="title">Festivales</h1>
+            <h2 class="subtitle">Los mejores en el mundo</h2>
+        </div>
+    </nav>
+    
+    <!-- main -->
+    <div class="main__form">
+        <form class="form">
+            <div class="form__flex">
+                <div class="form__categoria">
+                    <label for="categoria" class="form__title">Categoría</label>
+                    <select name="categoria" id="categoria" class="form__input" onchange="categoriaFilter()">
+                    <option value="todos">Mostrar todos</option>
+                    </select>
+                </div>
+                <div class="form__project">
+                    <label for="proyecto" class="form__title">Festival</label>
+                    <input type="text" id="proyecto" class="form__input" onkeyup="categoriaFilter()" placeholder="Ingresa festival"/>
+                </div>
+            </div>
+        </form>
+        <div class="row" id="casos">
+        
+        </div>
+
+    </div>
+    <footer class="footer">
+        <h2>Aviso de privacidad</h2>
+    </footer>
+    
+
+<script src="scripts2.js"></script>
+</body>
+</html>
