@@ -10,7 +10,7 @@
 
 body{
     /* background-color:#013872; */
-    background-color: #4C3A51;
+    background-color: #16213E;
     font-family: Work Sans, sans-serif;
     font-weight: 300;
 }
@@ -19,7 +19,7 @@ body{
 .navbar{
     width: 90%;
     height: 100px;
-    background-color: #B25068;
+    background-color: #0F3460;
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
@@ -101,7 +101,7 @@ body{
 }
 
 .form__title{
-    color: #E7AB79;
+    color: #E94560;
     margin-bottom: 10px;
     font-weight: bold;
     text-transform: uppercase;
@@ -116,7 +116,7 @@ body{
 }
 
 .form__input{
-    background-color: #E7AB79;
+    background-color: #E94560;
     height: 40px;
     border-radius: 7px;
     color: #ffffff;
@@ -139,7 +139,7 @@ body{
     width: 400px;
     height: 500px;
     margin: 10px;
-    background-color: #774360;
+    background-color: #0F3460;
     border-radius: 15px;
     display: flex;
     flex-direction: column;
@@ -151,7 +151,7 @@ body{
 }
 
 .card:hover{
-    background-color: #B25068;
+    background-color: #533483;
 }
 
 .--active{
@@ -207,7 +207,7 @@ body{
 }
 
 .title__proyecto{
-    color: #E7AB79;
+    color: #E94560;
     text-align: center;
     font-size: 35px;
     font-weight: bold;
@@ -264,7 +264,7 @@ body{
     height: 70px;
     border-radius: 10px 10px 0px 0px;
     color: #EEEEEE;
-    background-color: #B25068;
+    background-color: #0F3460;
     display: flex;
     align-items: center;
     justify-content: center;
